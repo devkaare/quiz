@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What word do programmers often use in test programs?",
+    "answer": "a",
+    "options": {
+      "a": "Foobar",
+      "b": "Barfoo",
+      "c": "Foo",
+      "d": "Bar"
+    }
+  },
+  {
+    "question": "What website do programmers often use to ask fellow programmers for help?",
+    "answer": "b",
+    "options": {
+      "a": "ChatGPT",
+      "b": "Stackoverflow",
+      "c": "Youtube",
+      "d": ""
+    }
+  }
+]
