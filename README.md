@@ -13,3 +13,5 @@ A [Go compiler](https://go.dev/dl/) is **required** to run this program.
 
 - OPTIONAL: Replace the questions inside `questions.json` with custom ones before starting
 - Start the quiz by running `go run main.go` (in the same directory as the `main.go` file)
+
+Check out [recall](https://github.com/devkaare/recall) aswell
