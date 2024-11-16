@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a CLI tool to quiz the user with questions from `questions.json` NOTE: You can add, remove and replace the questions inside this file,
+This is a CLI tool designed to quiz you (the user) with questions from `questions.json` (useful for practicing for tests etc) NOTE: You can add, remove and replace the questions inside this file,
 BUT the json structure needs to stay the same for the code to work.
 
 ## Requirements
